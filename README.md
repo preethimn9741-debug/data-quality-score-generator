@@ -1,1 +1,1 @@
-# score-generatopr
+# score-generator
